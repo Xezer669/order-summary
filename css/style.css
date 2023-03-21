@@ -1,0 +1,31 @@
+
+body {
+   background-color: hsl(225, 100%, 94%);
+}
+
+h5 {
+    font-size: 1.5;
+    line-height: 1.5;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+p {
+    color: hsl(224, 23%, 55%);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+}
+
+.proceed-button {
+    background-color: hsl(245, 75%, 52%);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    font-size: 15px;
+}
+
+
+
+
+
+
+
